@@ -58,6 +58,7 @@ white_list = [
     'lucas.simoes@pagaleve.com.br',
     'rafael.fernandes@pagaleve.com.br',
     'mariana.vasconcellos@pagaleve.com.br',
+    'hyuk.choi@pagaleve.com.br',
 ]
 
 @app.command("/pai")
