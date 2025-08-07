@@ -2,6 +2,7 @@
 *.p8
 *.pub
 .env
+*.env
 __pycache__
 .venv/
 venv/bin/*
