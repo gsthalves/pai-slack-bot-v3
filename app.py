@@ -24,7 +24,7 @@ RSA_PRIVATE_KEY_PATH = os.getenv("RSA_PRIVATE_KEY_PATH")
 MODEL = os.getenv("MODEL")
 
 DEBUG = True
-USE_WHITE_LIST = True
+USE_WHITE_LIST = False
 
 # Initializes app
 app = App(token=SLACK_BOT_TOKEN)
