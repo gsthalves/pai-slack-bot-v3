@@ -111,7 +111,7 @@ def pai_command(ack, say, command):
                     "type": "section",
                     "text": {
                         "type": "plain_text",
-                        "text": f"🤦 Ihhhh deu ruim pro PAI, ${user_name} mas lembre-se que sou só um MVP.",
+                        "text": f"🤦 Ihhhh deu ruim pro PAI, {user_name} mas lembre-se que sou só um MVP.",
                     }
                 }
             ]
