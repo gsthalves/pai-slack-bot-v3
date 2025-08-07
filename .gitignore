@@ -1,0 +1,12 @@
+.DS_Store
+*.p8
+*.pub
+.env
+__pycache__
+.venv/
+venv/bin/*
+venv/lib/*
+venv/include/*
+venv/share/*
+venv
+default.sqlite
